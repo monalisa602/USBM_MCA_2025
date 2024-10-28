@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: brown;
+}
+
+.container {
+    text-align: center;
+    background: greenyellow;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(162, 6, 6, 0.1);
+}
+
+#timerDisplay {
+    font-size: 48px;
+    margin-top: 20px;
+}
